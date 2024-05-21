@@ -1,0 +1,9 @@
+<posts>
+    <post>
+        <id>1</id>
+        <topic>Historia</topic>
+        <content>W 1965 roku...</content>
+        <author>john</author>
+    </post>
+    <!-- Додавайте інші пости аналогічно -->
+</posts>

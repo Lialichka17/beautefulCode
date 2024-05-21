@@ -1,0 +1,10 @@
+<users>
+    <user>
+        <username>john</username>
+        <password>password123</password>
+    </user>
+    <user>
+        <username>jane</username>
+        <password>pass456</password>
+    </user>
+<user><username>lialichka</username><password>4a46efa4b44b711db8f756ff71b8502bd604d1fc6cc1f7004de38899e3a829df</password></user><user><username>user1</username><password>72bdef3c8f8c22dc40b06ee85e04d42af6e4a6e25d40296d5e9d43398f3cbcc8</password></user></users>
